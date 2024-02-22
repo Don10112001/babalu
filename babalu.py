@@ -50,7 +50,7 @@ df_selection= df.query("City == @city & Customer_type == @customer_type & Gender
 
 
 #-------------MAINPAGE--------------#
-st.title(":bar_chart:Sales Dashboard")
+st.title("Sales Dashboard")
 st.markdown("##")
 
 
